@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@theme {
+  --color-dark: #111111;
+  --color-gold: #C89D5A;
+  --color-primaryStart: #6A11CB;
+  --color-primaryEnd: #2575FC;
+  --color-accent: #00E0FF;
+  --color-grayText: #B0B0B0;
+}
+
+body {
+  background: rgb(19, 16, 16);
+  color: white;
+  font-family: sans-serif;
+  min-height: 100vh;
+}
+
+/* Apply this to body or a wrapper div */
+body {
+  min-height: 100vh;
+  background-color: #111010; /* dark base color */
+  position: relative;
+  overflow-x: hidden;
+}
+
+
+
+
+
+
+
+
