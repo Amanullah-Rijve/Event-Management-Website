@@ -89,7 +89,7 @@ function About() {
           className="flex justify-center"
         >
           <img
-            src="/public/images/about2.jpg" 
+            src="/images/about2.jpg" 
             alt="Why Choose Us"
             className="rounded-2xl shadow-lg w-full max-w-md"
           />
