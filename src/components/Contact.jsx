@@ -79,7 +79,7 @@ export default function Contact() {
             rows="4"
             className="w-full px-4 py-3 rounded-lg bg-[#1a1a1a] text-white placeholder-grayText focus:outline-none focus:ring-2 focus:ring-gold"
           />
-          <button className="w-full py-3 rounded-lg bg-gold text-dark font-semibold">
+          <button className="w-full py-3 rounded-lg bg-gold text-dark font-semibold py-3 rounded-lg hover:bg-accent transition">
             Send Message
           </button>
         </motion.form>
