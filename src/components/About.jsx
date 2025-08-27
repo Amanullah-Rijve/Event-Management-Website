@@ -18,7 +18,7 @@ function About() {
           className="flex justify-center"
         >
           <img
-            src="/public/images/about3.jpg" 
+            src="/images/about3.jpg" 
             alt="Our Story"
             className="rounded-2xl shadow-lg w-full max-w-md"
           />
