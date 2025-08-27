@@ -44,7 +44,7 @@ function Hero() {
           className="relative"
         >
           <img
-            src="/public/images/hero2.jpg" 
+            src="/images/hero2.jpg" 
             alt="Event Illustration"
             className="rounded-2xl shadow-lg w-full object-cover"
           />
