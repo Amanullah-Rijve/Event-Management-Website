@@ -14,7 +14,7 @@ function ServicesTabs() {
         "A–Z Event Planning, Hosting & Execution",
       ],
       why: "Creative concepts, flawless execution, and on-time delivery.",
-      img: "/public/images/event.jpg", // replace with real image
+      img: "/images/event.jpg", // replace with real image
     },
     {
       title: "Digital Marketing",
@@ -27,7 +27,7 @@ function ServicesTabs() {
         "Complete A–Z Digital Marketing Support",
       ],
       why: "We combine creativity, data, and strategy to deliver measurable results.",
-      img: "/public/images/market.jpg",
+      img: "/images/market.jpg",
     },
     {
       title: "Business Organizer & Planner",
@@ -40,7 +40,7 @@ function ServicesTabs() {
         "Ongoing Mentorship & Management",
       ],
       why: "We stay with you until your business is running smoothly.",
-      img: "/public/images/business.jpg",
+      img: "/images/business.jpg",
     },
     {
       title: "Restaurant Business Adviser",
@@ -53,7 +53,7 @@ function ServicesTabs() {
         "Restaurant Marketing & Customer Retention",
       ],
       why: "We know what makes restaurants thrive and help you achieve it.",
-      img: "/public/images/resturant.jpg",
+      img: "/images/resturant.jpg",
     },
   ];
 
